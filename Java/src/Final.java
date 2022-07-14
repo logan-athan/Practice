@@ -15,7 +15,7 @@ class Abcd extends Abc
 		public  final void show1( )
 		{   
 			
-			System.out.println(i);
+			System.out.println(""+i);
 		}
 		public   void show( )
 		{   
